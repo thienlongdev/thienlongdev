@@ -24,16 +24,12 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
     <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/nguyen-tu-thien-long-87a17831b/" target="_blank">
+  <a href="https://linkedin.com/in/nguyễn-tú-thiên-long-87a17831b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   &nbsp;
   <a href="https://t.me/thienlongdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/longnguyen_89640" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="35"/>
   </a>
 </p>
 
@@ -43,7 +39,7 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
 ## Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,streamlit,docker,postgres,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,git" />
 </p>
 
 ---
