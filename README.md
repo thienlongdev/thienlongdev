@@ -4,7 +4,7 @@
 I study Information Technology at PTIT and I'm passionate about becoming an AI Engineer in NLP and CV.
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=thienlongdev&color=0e75b6&style=flat" />
 </p>
 
