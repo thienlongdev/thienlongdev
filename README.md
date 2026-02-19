@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 
 <p align="center">
-I study Information Technology at PTIT and I'm passionate about becoming an AI Engineer in NLP and CV.
+I study Information Technology at PTIT and I'm eager to become an AI Engineer specializing in Natural Language Processing and Computer Vision.
 </p>
 
 <p align="left">
