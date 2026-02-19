@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 
 <p align="center">
-AI Engineer
-</p>
-
-<p align="center">
 I study Information Technology at PTIT and I'm passionate about becoming an AI Engineer in NLP and CV.
 </p>
 
@@ -24,26 +20,30 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
 ## Connect with me:
 
 <p align="left">
-<a href="https://facebook.com/thien.long.417936">
-<img src="https://skillicons.dev/icons?i=facebook" height="30" />
-</a>
-<a href="https://linkedin.com/in/nguyễn-tú-thiên-long-87a17831b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="https://t.me/thienlongdev" target="_blank">
-<img src="https://skillicons.dev/icons?i=telegram" height="30" />
-</a>
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" height="30" />
-</a>
+  <a href="https://facebook.com/thien.long.417936" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/nguyen-tu-thien-long-87a17831b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/thienlongdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/longnguyen_89640" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="35"/>
+  </a>
 </p>
+
 
 ---
 
 ## Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,java,unity" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,streamlit,docker,postgres,git" />
 </p>
 
 ---
