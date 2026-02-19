@@ -24,7 +24,7 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
     <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/nguyễn-tú-thiên-long-87a17831b/" target="_blank">
+  <a href="https://linkedin.com/in/nguyen-tu-thien-long-87a17831b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   &nbsp;
