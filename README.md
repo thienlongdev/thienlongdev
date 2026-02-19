@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 
 <p align="center">
-I study Information Technology at PTIT and I want to become an AI Engineer in NLP and CV.
+AI Engineer
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=thienlongdev&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+I study Information Technology at PTIT and I'm passionate about becoming an AI Engineer in NLP and CV.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/404-badge%20not%20found-red" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thienlongdev&color=0e75b6&style=flat" />
 </p>
 
 ---
