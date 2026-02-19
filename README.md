@@ -19,20 +19,9 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
 
 ## Connect with me:
 
-<p align="left">
-  <a href="https://facebook.com/thien.long.417936" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/nguyen-tu-thien-long-87a17831b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/thienlongdev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="35"/>
-  </a>
-</p>
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thien.long.417936)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-tu-thien-long-87a17831b/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thienlongdev)
 
 ---
 
