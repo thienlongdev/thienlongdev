@@ -33,11 +33,11 @@ I study Information Technology at PTIT and I'm passionate about becoming an AI E
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thienlongdev&show_icons=true&theme=buefy&border_radius=12" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=thienlongdev&theme=buefy&border_radius=12" />
 </p>
 
